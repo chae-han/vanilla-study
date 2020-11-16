@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T11:59:43.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.9.9" etag="GMhwSq9ZnjySU7ltki6S" type="github"><diagram id="9UfCWz7mvgVIPccl4fr-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T12:20:44.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="o_XuoNcdspArzNPvR12m" version="13.9.9" type="github">
+  <diagram id="9UfCWz7mvgVIPccl4fr-" name="Page-1">
+    <mxGraphModel dx="1572" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-1" target="-NqLt_ytoW5e6yzy6_50-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-1" target="-NqLt_ytoW5e6yzy6_50-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-1" value="interface __name{&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-2" target="-NqLt_ytoW5e6yzy6_50-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-2" target="-NqLt_ytoW5e6yzy6_50-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-2" value="interface __name{&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-3" target="-NqLt_ytoW5e6yzy6_50-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-3" value="interface __name{&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="173" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-4" target="-NqLt_ytoW5e6yzy6_50-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-4" value="abstract class __name{&lt;br&gt;&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="290" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-5" value="&lt;span class=&quot;kwd&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(0 , 0 , 139)&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt; &lt;/span&gt;&lt;span class=&quot;typ&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(43 , 145 , 175)&quot;&gt;ClassName&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kwd&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(0 , 0 , 139)&quot;&gt;extends&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt; &lt;/span&gt;&lt;span class=&quot;typ&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(43 , 145 , 175)&quot;&gt;Superclass&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kwd&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(0 , 0 , 139)&quot;&gt;implements&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt; &lt;/span&gt;&lt;span class=&quot;typ&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(43 , 145 , 175)&quot;&gt;Interface1&lt;/span&gt;&lt;span class=&quot;pun&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt; &lt;/span&gt;&lt;span class=&quot;typ&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box ; color: rgb(43 , 145 , 175)&quot;&gt;Interface2&lt;/span&gt;&lt;span class=&quot;pun&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;pun&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-size: 13px ; background-color: rgb(238 , 238 , 238) ; box-sizing: border-box&quot;&gt;....&lt;/span&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-10" value="multiple&lt;br&gt;extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-11" target="-NqLt_ytoW5e6yzy6_50-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-11" value="interface __name{&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="233" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-14" value="multiple&lt;br&gt;implements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-17" value="multiple&lt;br&gt;implements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-22" value="single extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.189;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-24" target="-NqLt_ytoW5e6yzy6_50-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="400" />
+              <mxPoint x="100" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-24" value="interface __name{&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="-NqLt_ytoW5e6yzy6_50-26" target="-NqLt_ytoW5e6yzy6_50-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-26" value="class __name{&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NqLt_ytoW5e6yzy6_50-28" value="single extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
